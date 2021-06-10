@@ -1,6 +1,6 @@
 # CSI-artifacts
 
-This respository is the public archive of the Cobot Safely Integrated (CSI:Cobot) 
+This repository is the public archive of the Cobot Safely Integrated (CSI:Cobot) 
 project, containing the media and examples relating to our associated articles.
 
 ## Acknowledgements
