@@ -1,6 +1,6 @@
 # Verified Synthesis of Optimal Safety Controllers for Human-Robot Collaboration
 
-This repository contains the article resources and media in association with the submission.
+This repository contains the supplemental material (resources and media) for our research preprint archived under https://arxiv.org/abs/2106.06604. Please, go there to receive the latest PDF version and bibliographic data.
 
 ### Summary of submission artifacts and resources:
 
